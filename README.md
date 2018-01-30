@@ -2,10 +2,10 @@
 A interactive data visualization of how prices of 1BR apartments are affected across different Manhattan Neighborhoods and Streets.
 
 ## What's Included
-Tab 1: Table - Aggregated median price of each neighborhood in Manhattan from August 2017 to January 2018._
-Tab 2: Interactive Map - Discover and compare median prices of 1BR apartments across different neighborhoods in Manhattan. Hover for neighborhood names and prices._
-Tab 3: Uptown Street Boundaries GGPLOT - Examine the price differences across individual street boundaries in the Uptown portion of Manhattan._
-Tab 4: Midtown Street Boundaries GGPLOT - Examine the price differences across individual street boundaries in the Midtown portion of Manhattan._
+Tab 1: Table - Aggregated median price of each neighborhood in Manhattan from August 2017 to January 2018.__
+Tab 2: Interactive Map - Discover and compare median prices of 1BR apartments across different neighborhoods in Manhattan. Hover for neighborhood names and prices.__
+Tab 3: Uptown Street Boundaries GGPLOT - Examine the price differences across individual street boundaries in the Uptown portion of Manhattan.__
+Tab 4: Midtown Street Boundaries GGPLOT - Examine the price differences across individual street boundaries in the Midtown portion of Manhattan.__
 Tab 5: Downtown Street Boundaries GGPLOT - Examine the price differences across individual street boundaries in the Downtown portion of Manhattan.
 
 ## Built With
@@ -17,4 +17,4 @@ Tab 5: Downtown Street Boundaries GGPLOT - Examine the price differences across 
 
 ## Authors
 
-* **Selina Wong** - *Initial work* - [SelinaWJ](https://github.com/SelinaWJ)
+* **Selina Wong** - [SelinaWJ](https://github.com/SelinaWJ)
