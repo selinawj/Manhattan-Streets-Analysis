@@ -9,11 +9,11 @@ Tab 4: Midtown Street Boundaries GGPLOT - Examine the price differences across i
 Tab 5: Downtown Street Boundaries GGPLOT - Examine the price differences across individual street boundaries in the Downtown portion of Manhattan.  
 
 ## Built With
-* [Python](https://www.python.org/) - Pre-processing & Manipulation of Streets & Coordinates Data_
-* [R](https://www.r-project.org/) - Statistical Analysis, Plots and Aggregation of Data_
-* [Leaflet](http://leafletjs.com/) - Used to generate Interactive Map_
-* [GeoJSON](http://geojson.io/) - Used to define Neighborhood Boundaries & Coordinates_
-* [Shiny](https://shiny.rstudio.com/) - For hosting on the Shiny Server_
+* [Python](https://www.python.org/) - Pre-processing & Manipulation of Streets & Coordinates Data
+* [R](https://www.r-project.org/) - Statistical Analysis, Plots and Aggregation of Data
+* [Leaflet](http://leafletjs.com/) - Used to generate Interactive Map
+* [GeoJSON](http://geojson.io/) - Used to define Neighborhood Boundaries & Coordinates
+* [Shiny](https://shiny.rstudio.com/) - For hosting on the Shiny Server
 
 ## Authors
 
