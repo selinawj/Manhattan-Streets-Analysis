@@ -13,6 +13,8 @@ Tab 5: Downtown Street Boundaries GGPLOT - Examine the price differences across 
 * [R](https://www.r-project.org/) - Statistical Analysis, Plots and Aggregation of Data
 * [Leaflet](http://leafletjs.com/) - Used to generate Interactive Map
 * [GeoJSON](http://geojson.io/) - Used to define Neighborhood Boundaries & Coordinates
+* [Shapely 1.6.4](http://https://pypi.python.org/pypi/Shapely) - Python Package for manipulation & analysis of geometric objects.
+* [Matploblib](https://matplotlib.org/) - Python 2D plotting library.
 * [Shiny](https://shiny.rstudio.com/) - For hosting on the Shiny Server
 
 ## Authors
